@@ -8,6 +8,7 @@
 - $\langle e^{\beta \Delta E^x_{\text{int}}} \rangle = \frac{1}{N} \sum_{i=1}^N e^{\beta \Delta E^x_{\text{int}}(t_i)}$
 - $\Delta E^x_{\text{int}}(t_i) = E^x_{\text{int}}(t_i) - \langle E^x_{\text{int}} \rangle$
 - $E_{\text{int}} = E^{\text{vac}}_{\text{ele}} + E^{\text{vac}}_{\text{vdW}}$
+  
 # Install
 - `conda create -n AlaIE python=3.10`
 - `conda activate AlaIE`
