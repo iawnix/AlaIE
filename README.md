@@ -4,6 +4,7 @@
 
 1. 参考Z. H. Zhang等人JCTC的工作[DOI: 10.1021/acs.jctc.7b01295]
 2. 计算原理:
+- $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 - $$IE = KT[\ln\langle e^{\beta \Delta E^{a}_{int}}\rangle - \ln\langle e^{\beta \Delta E^{x}_{int}}\rangle]$$
 - $$langle e^{\beta \Delta E^{x}_{int}}\rangle = \frac{1}{N} \sum_{i=1}^{N} e^{\beta \Delta E^{x}_{int}(t_{i})}$$  
 - $$\Delta E^{x}_{int}(t_{i}) = E^{x}_{int}(t_{i}) - \langle E^{x}_{int}\rangle$$
