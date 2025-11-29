@@ -7,7 +7,7 @@
 - $IE = KT \left[ \ln \langle e^{\beta \Delta E^a_{\text{int}}} \rangle - \ln \langle e^{\beta \Delta E^x_{\text{int}}} \rangle \right]$
 - $\langle e^{\beta \Delta E^x_{\text{int}}} \rangle = \frac{1}{N} \sum_{i=1}^N e^{\beta \Delta E^x_{\text{int}}(t_i)}$
 - $\Delta E^x_{\text{int}}(t_i) = E^x_{\text{int}}(t_i) - \langle E^x_{\text{int}} \rangle$
-- $E_{\text{int}} = E^{\text{vac}}_{\text{ele}} + E^{\text{vac}}_{\text{vdW}}$
+- $E_{\text{int}}(t_i) = E^{\text{vac}}_{\text{ele}}(t_i) + E^{\text{vac}}_{\text{vdW}}(t_i)$
   
 # Install
 - `conda create -n AlaIE python=3.10`
